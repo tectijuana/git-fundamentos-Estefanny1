@@ -12,6 +12,15 @@ Anuncio·https://www.launchableinc.com/
 
 ![download](https://user-images.githubusercontent.com/71289132/219516706-a21a5010-6f64-4e45-90bf-f78a6bb5448c.png)
 
+**Codigo**
+
+```C
+#include <studio.h>
+int main()
+{
+printf("Holaaa Mundo :3")
+}
+```
 
 # :wave: The Basics of GitHub 
 
